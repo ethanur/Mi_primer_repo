@@ -1,2 +1,2 @@
 # Mi_primer_repo
-This a chenge on my README
+This a change on my README
